@@ -1,0 +1,17 @@
+{
+  "name": "calcpvp20515",
+  "version": "0.1.1",
+  "main":"calc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakshmanlucky6/calculator.git"
+  },
+  "keywords": [
+    "calc",
+    "calcpvp20515","calculator"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
